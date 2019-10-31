@@ -1,0 +1,21 @@
+{
+  "name": "tdd-carousel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klrpdx/tdd-carousel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klrpdx/tdd-carousel/issues"
+  },
+  "homepage": "https://github.com/klrpdx/tdd-carousel#readme"
+}
